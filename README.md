@@ -1,19 +1,9 @@
-eojvnefobusn
-dfb
-Bijour bijour
-COUCOU SAMUEL
-COUCOU MATTHIEU !
+README
+---------------------------------------
+
+Samuel Enguehard -> SamNag
+Matthieu Lemonier -> LTMXcitrus
+Thomas Moisy -> ThomasMoisy
 
 
-COUCOU SAMUEL & MATTHIEU
-
-blah blah
-
-egqege
-e
-thethg
-
-
-interactive rebase 1
-
-interactive rebase 2
+---------------------------------------
