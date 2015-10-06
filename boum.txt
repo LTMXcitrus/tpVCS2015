@@ -1,3 +1,6 @@
 boum
 
 hello
+=======
+et voilà les conflits qui arrivent !!
+
