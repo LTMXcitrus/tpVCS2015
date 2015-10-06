@@ -13,7 +13,4 @@ egqege
 e
 thethg
 
-
-interactive rebase 1
-
-interactive rebase 2
+Squash1
