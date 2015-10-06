@@ -1,1 +1,2 @@
 SQUASH 1
+SQUASH 2
